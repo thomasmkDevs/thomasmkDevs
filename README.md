@@ -1,7 +1,7 @@
-### Hi there 👋
+<h2><p align="center">Hi there 👋 I'm Thomas MK</p></h2>
 
 <!--
-**thomasmkDevs/thomasmkDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**developer-thomasmk/developer-thomasmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
