@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Thomas Mathew Kurialassery</h1>
+<h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">Senior Mobile Engineer | Flutter & Android Expert | IoT & BLE Integrator</h3>
 
 <p align="center">
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif?raw=true" width="25%" height="25%" />
+  <img src="assets/developer.gif" width="25%" height="25%" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Cross-platform+Developer;Clean+Architecture+Evangelist;10%2B+Years+Experience;Passionate+Coder;Always+Learning+New+Tech" />
 </p>
+
 ---
 
 🔧 **About Me**
@@ -49,8 +50,8 @@
 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThomasKurialassery&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasKurialassery&layout=compact&theme=tokyonight" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=thomasmkDevs&show_icons=true&theme=tokyonight" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomasmkDevs&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -59,8 +60,8 @@
 
 <p align="center">
   <a href="mailto:developer.thomasmk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/thomas-kurialassery/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://play.google.com/store/apps/dev?id=YOUR_DEV_ID"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
+  <a href="www.linkedin.com/in/thomas-m-kurialassery-771285143"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<!--   <a href="https://play.google.com/store/apps/dev?id=YOUR_DEV_ID"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play&logoColor=white"></a> -->
 </p>
 
 ---
