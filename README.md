@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="mailto:developer.thomasmk@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/thomas-m-kurialassery-771285143"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="www.linkedin.com/in/thomasmkdevs"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <!--   <a href="https://play.google.com/store/apps/dev?id=YOUR_DEV_ID"><img src="https://img.shields.io/badge/Play%20Store-414141?style=for-the-badge&logo=google-play&logoColor=white"></a> -->
 </p>
 
